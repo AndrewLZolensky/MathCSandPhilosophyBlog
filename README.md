@@ -1,2 +1,2 @@
-# MathCSandPhilosophyBlog
-My mathematics and CS blog
+# MathNotes
+My math notes
